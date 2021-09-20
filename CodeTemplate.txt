@@ -2,26 +2,25 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Animal Crossing
+//Em Dryer 
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Tom Nook offers you 10,000 bells for your new fish friend) {
+    //Sell the fish to him
 } else {
-    //Add event below
+    //Keep your fish friend
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Tom Nook asks if you want to upgrade your house) {
+    //Have a panic attack
 } else {
-    //Add event below
+    //Continue living your life in peace
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (there there is fruit on a tree) {
+    //shake the tree
 } else {
-    //Add event below
+    //let the tree be!
 }
-
 
